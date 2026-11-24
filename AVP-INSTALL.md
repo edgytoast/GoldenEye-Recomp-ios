@@ -73,3 +73,7 @@ The result is a signed `.ipa`, the same kind of file as the release download. Up
 - Multiplayer is not supported; the campaign is. Split-screen and the online modes are out of scope for now.
 - Sideloaded apps expire: a free Apple account signs for 7 days, a paid developer account for a year. SideStore refreshes them in the background; open it and let it re-sign if the app stops launching.
 - GoldenEye 007 is © Rare / Nintendo / MGM / Danjaq. This project is not affiliated with, endorsed by, or connected to any of them.
+
+## Support
+
+This fork keeps GoldenEye 007 installable on Apple Vision Pro. It's maintained as part of the [AVP Ports Index](https://github.com/edgytoast/avp-ports-index), which tracks every port we can find and runs a safety check on each one. If this guide got you playing, you can [buy me a coffee](https://buymeacoffee.com/adminpz) to help keep it running.
